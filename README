@@ -1,0 +1,6 @@
+A Linux kernel module providing bluescreen on kernel-panics! :o)
+
+Not useful at all, it was created some years ago when I decided to make some
+first steps in kernel development.
+Due to it's age, I assume it doesn't even build against modern kernel-versions
+at all, but I decided to dump it here anyway.
